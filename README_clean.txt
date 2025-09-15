@@ -36,4 +36,7 @@ gcc -O3 -std=c11 Amanda2_final_corrigido.c -o sim
 - Código e comentários em português do Brasil.
 
 6) RESUMO
-Modelo criado por mim para avaliar dinâmica da informação e dinâmica de doenças em uma rede complexa. Dessa maneira consegue-se observar,medir, quantificar a eficácia a informação na prevenção e disseminação de doenças e pode ser utilizado para gerar novas políticas públicas direcionadas e mais  efetiva e otimizada na area das políticas públicas de prevenção.
+Modelo criado por mim para avaliar dinâmica da informação e dinâmica de doenças em uma rede complexa. 
+Dessa maneira consegue-se observar,medir, quantificar a eficácia a informação na prevenção e 
+disseminação de doenças e pode ser utilizado para gerar novas políticas públicas direcionadas e 
+mais  efetiva e otimizada na area das políticas públicas de prevenção.
